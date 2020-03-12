@@ -26,3 +26,7 @@ y solo se hecha a andar con el comando:
     ng serve 
     
 NOTA : LA BASE DE DATOS TIENE QUE ESTAR CORRIENDO EN UN SERVIDOR LOCAL COMO XAMPP O WAMP 
+
+en el siguiente link fue donde me base para consumir la rest api desde angular:
+
+    https://blog.ng-classroom.com/blog/angular/rest-api-with-angular/
